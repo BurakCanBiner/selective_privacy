@@ -1,0 +1,5 @@
+{
+  "dataset_path": "/kuacc/users/bbiner21/Github/InferenceBenchmark/fairface/",
+  "experiments_folder": "/kuacc/users/bbiner21/Github/InferenceBenchmark/experiments/",
+  "gpu_devices": [0]
+}
